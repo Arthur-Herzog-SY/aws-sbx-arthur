@@ -1,0 +1,140 @@
+{
+	// 8D-Report
+	// Autor: 
+	"Titel": "8D Report",
+	"Reportnr.": ""
+	"DO: Problem berichten": {
+		"An": "", // Empfänger des Berichts
+		"Name": "", // Name der Person oder des Unternehmens
+		"Lieferant": "Smart Press Shop GmbH & Co. KG", // Lieferant
+		"Datum": "", // Datum des Berichts
+		"Fehlerschwere": "", // Schwere des Fehlers
+		"Bearbeiter": "", // Verantwortliche Person
+		"Telefon": "", // Telefonnummer des Bearbeiters
+		"Email": "" // E-Mail-Adresse des Bearbeiters
+	},
+	"D1: TeamInformationen": {
+		"Bearbeitungsteam": {
+			"Kundenbetreuung": "",
+			"Qualität": "",
+			"Fertigung": "",
+			"Logistik": "",
+			"(WZ-)Instandhaltung": "",
+			"Sonstige Teilnehmer": ""
+		},
+		"Teilenr. SPS": "",
+		"Teilebezeichnung": "",
+		"Teilenr. Lieferant": "",
+		"Beanstandung": "",
+		"Kundenreportnr": "",
+		"LS_NR./LAP": "",
+		"ReklamierteMenge": "",
+		"vom (Datum)": "",
+		"Foto/Beweis": ""
+	},
+	"D2: Problembeschreibung": "",
+	"D3: Sofortmaßnahmen": {
+		"Headings": ["Sofortmaßnahme", "Verantwortlich", "Fälligkeitsdatum", "Datum abgeschlossen"],
+		"Rows": [
+			{
+				"Sofortmaßnahme": "",
+				"Verantwortlich": "",
+				"Fälligkeitsdatum": "",
+				"Datum Abgeschlossen": ""
+			},
+			{
+				"Sofortmaßnahme": "",
+				"Verantwortlich": "",
+				"Fälligkeitsdatum": "",
+				"Datum Abgeschlossen": ""
+			},
+			{
+				"Sofortmaßnahme": "",
+				"Verantwortlich": "",
+				"Fälligkeitsdatum": "",
+				"Datum Abgeschlossen": ""
+			},
+			{
+				"Sofortmaßnahme": "",
+				"Verantwortlich": "",
+				"Fälligkeitsdatum": "",
+				"Datum Abgeschlossen": ""
+			},
+			{
+				"Sofortmaßnahme": "",
+				"Verantwortlich": "",
+				"Fälligkeitsdatum": "",
+				"Datum Abgeschlossen": ""
+			}
+		]
+	},
+	"D4: Fehlerursache": {
+		"Fehlerursache auf Vorhanden in FMEA Überprüft": false, // Boolean-Feld zur Überprüfung
+		"5-Why verwenden": {
+			"Auftreten": "",
+			"Entdeckung": ""
+		}
+	},
+	"D5/D6: AbstellPräventionsmaßnahmen/Maßnahmenplan": {
+		"Headings": [
+			"Maßnahmentyp (E - Entdeckung, U - Ursache, A - Aufrufer)", 
+			"Abstellmaßnahme", 
+			"Verantwortlich", 
+			"Fälligkeitsdatum", 
+			"Datum abgeschlossen"
+		],
+		"Rows": [
+			{
+				"Maßnahmentyp": "",
+				"Abstellmaßnahme": "",
+				"Verantwortlich": "",
+				"Fälligkeitsdatum": "",
+				"Datum Abgeschlossen": ""
+			},
+			{
+				"Maßnahmentyp": "",
+				"Abstellmaßnahme": "",
+				"Verantwortlich": "",
+				"Fälligkeitsdatum": "",
+				"Datum Abgeschlossen": ""
+			},
+			{
+				"Maßnahmentyp": "",
+				"Abstellmaßnahme": "",
+				"Verantwortlich": "",
+				"Fälligkeitsdatum": "",
+				"Datum Abgeschlossen": ""
+			}
+		]
+	},
+	"D7: Wirksamkeitsprüfung": {
+		"Durchgeführt Von": "Ch. Sachse",
+		"Beschreibung": "",
+		"Wiederauftreten Vermeiden": {
+			"Headings": [
+				"DokumentAktualisiert", 
+				"Verantwortlich",
+				"Datum Abgeschlossen"
+			],
+			"Rows": [
+				{
+					"FMEA aktualiseirt": false,
+					"Verantwortlich": "",
+					"Datum Abgeschlossen": ""
+				},
+				{
+					"PLP aktualiseirt": false,
+					"Verantwortlich": "",
+					"Datum Abgeschlossen": ""
+				}
+			],
+			"Keine Dokumente aktualisiert": false,
+			"Begründung": ""
+		}
+	},
+	"D8: Gratulation an das Team": {
+		"Team gewürdigt": true, 
+		"Geschlossen von": "",
+		"Geschlossen am": ""
+	}
+}

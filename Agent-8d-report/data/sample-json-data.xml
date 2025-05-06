@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<8D Report>
+	<Reportnr.></Reportnr.>
+	<DO: Problem berichten>
+		<An></An>
+		<Name></Name>
+		<Lieferant>Smart Press Shop GmbH &amp; Co. KG</Lieferant>
+		<Datum></Datum>
+		<Fehlerschwere></Fehlerschwere>
+		<Bearbeiter></Bearbeiter>
+		<Telefon></Telefon>
+		<Email></Email>
+	</DO: Problem berichten>
+	<D1: TeamInformationen>
+		<Bearbeitungsteam>
+			<Kundenbetreuung></Kundenbetreuung>
+			<Qualität></Qualität>
+			<Fertigung></Fertigung>
+			<Logistik></Logistik>
+			<(WZ-)Instandhaltung></(WZ-)Instandhaltung>
+			<Sonstige Teilnehmer></Sonstige Teilnehmer>
+		</Bearbeitungsteam>
+		<Teilenr. SPS></Teilenr. SPS>
+		<Teilebezeichnung></Teilebezeichnung>
+		<Teilenr. Lieferant></Teilenr. Lieferant>
+		<Beanstandung></Beanstandung>
+		<Kundenreportnr></Kundenreportnr>
+		<LS_NR./LAP></LS_NR./LAP>
+		<ReklamierteMenge></ReklamierteMenge>
+		<vom (Datum)></vom (Datum)>
+		<Foto/Beweis></Foto/Beweis>
+	</D1: TeamInformationen>
+	<D2: Problembeschreibung>Bei unserem Kunden Porsche Leipzig GmbH wurde ein Bauteil: Seitenwandrahmen links PO633 mit einer Partikelbeule oberhalb des Radlaufspiegels hinten detektiert.</D2: Problembeschreibung>
+	<D3: Sofortmaßnahmen>
+		<Headings>Sofortmaßnahme</Headings>
+		<Headings>Verantwortlich</Headings>
+		<Headings>Fälligkeitsdatum</Headings>
+		<Headings>Datum abgeschlossen</Headings>
+		<Rows>
+			<Sofortmaßnahme>Linienbegleitende Aktion bei Porsche Leipzig GmbH</Sofortmaßnahme>
+			<Verantwortlich>F.Hartmann</Verantwortlich>
+			<Fälligkeitsdatum>25.09.2024</Fälligkeitsdatum>
+			<Datum Abgeschlossen>in Bearbeitung</Datum Abgeschlossen>
+		</Rows>
+		<Rows>
+			<Sofortmaßnahme>Cleanpoint SPS 80047027</Sofortmaßnahme>
+			<Verantwortlich>Ch.Sachse</Verantwortlich>
+			<Fälligkeitsdatum>25.09.2024</Fälligkeitsdatum>
+			<Datum Abgeschlossen>27.09.2024</Datum Abgeschlossen>
+		</Rows>
+		<Rows>
+			<Sofortmaßnahme></Sofortmaßnahme>
+			<Verantwortlich></Verantwortlich>
+			<Fälligkeitsdatum></Fälligkeitsdatum>
+			<Datum Abgeschlossen></Datum Abgeschlossen>
+		</Rows>
+		<Rows>
+			<Sofortmaßnahme></Sofortmaßnahme>
+			<Verantwortlich></Verantwortlich>
+			<Fälligkeitsdatum></Fälligkeitsdatum>
+			<Datum Abgeschlossen></Datum Abgeschlossen>
+		</Rows>
+		<Rows>
+			<Sofortmaßnahme></Sofortmaßnahme>
+			<Verantwortlich></Verantwortlich>
+			<Fälligkeitsdatum></Fälligkeitsdatum>
+			<Datum Abgeschlossen></Datum Abgeschlossen>
+		</Rows>
+	</D3: Sofortmaßnahmen>
+	<D4: Fehlerursache>
+		<Fehlerursache auf Vorhanden in FMEA Überprüft>false</Fehlerursache auf Vorhanden in FMEA Überprüft>
+		<5-Why verwenden>
+			<Auftreten></Auftreten>
+			<Entdeckung></Entdeckung>
+		</5-Why verwenden>
+	</D4: Fehlerursache>
+	<D5/D6: AbstellPräventionsmaßnahmen/Maßnahmenplan>
+		<Headings>Maßnahmentyp (E - Entdeckung, U - Ursache, A - Aufrufer)</Headings>
+		<Headings>Abstellmaßnahme</Headings>
+		<Headings>Verantwortlich</Headings>
+		<Headings>Fälligkeitsdatum</Headings>
+		<Headings>Datum abgeschlossen</Headings>
+		<Rows>
+			<Maßnahmentyp></Maßnahmentyp>
+			<Abstellmaßnahme></Abstellmaßnahme>
+			<Verantwortlich></Verantwortlich>
+			<Fälligkeitsdatum></Fälligkeitsdatum>
+			<Datum Abgeschlossen></Datum Abgeschlossen>
+		</Rows>
+		<Rows>
+			<Maßnahmentyp></Maßnahmentyp>
+			<Abstellmaßnahme></Abstellmaßnahme>
+			<Verantwortlich></Verantwortlich>
+			<Fälligkeitsdatum></Fälligkeitsdatum>
+			<Datum Abgeschlossen></Datum Abgeschlossen>
+		</Rows>
+		<Rows>
+			<Maßnahmentyp></Maßnahmentyp>
+			<Abstellmaßnahme></Abstellmaßnahme>
+			<Verantwortlich></Verantwortlich>
+			<Fälligkeitsdatum></Fälligkeitsdatum>
+			<Datum Abgeschlossen></Datum Abgeschlossen>
+		</Rows>
+	</D5/D6: AbstellPräventionsmaßnahmen/Maßnahmenplan>
+	<D7: Wirksamkeitsprüfung>
+		<Durchgeführt Von>Ch. Sachse</Durchgeführt Von>
+		<Beschreibung></Beschreibung>
+		<Wiederauftreten Vermeiden>
+			<Headings>DokumentAktualisiert</Headings>
+			<Headings>Verantwortlich</Headings>
+			<Headings>Datum Abgeschlossen</Headings>
+			<Rows>
+				<FMEA aktualiseirt>false</FMEA aktualiseirt>
+				<Verantwortlich></Verantwortlich>
+				<Datum Abgeschlossen></Datum Abgeschlossen>
+			</Rows>
+			<Rows>
+				<PLP aktualiseirt>false</PLP aktualiseirt>
+				<Verantwortlich></Verantwortlich>
+				<Datum Abgeschlossen></Datum Abgeschlossen>
+			</Rows>
+			<Keine Dokumente aktualisiert>false</Keine Dokumente aktualisiert>
+			<Begründung></Begründung>
+		</Wiederauftreten Vermeiden>
+	</D7: Wirksamkeitsprüfung>
+	<D8: Gratulation an das Team>
+		<Team gewürdigt>true</Team gewürdigt>
+		<Geschlossen von></Geschlossen von>
+		<Geschlossen am></Geschlossen am>
+	</D8: Gratulation an das Team>
+</8D Report>

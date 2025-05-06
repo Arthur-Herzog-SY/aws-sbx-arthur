@@ -1,0 +1,139 @@
+{
+    "8D Report": {
+    	"Reportnr.": "",
+    	"DO: Problem berichten": {
+    		"An": "",
+    		"Name": "",
+    		"Lieferant": "Smart Press Shop GmbH & Co. KG",
+    		"Datum": "",
+    		"Fehlerschwere": "",
+    		"Bearbeiter": "",
+    		"Telefon": "",
+    		"Email": ""
+    	},
+    	"D1: TeamInformationen": {
+    		"Bearbeitungsteam": {
+    			"Kundenbetreuung": "",
+    			"Qualität": "",
+    			"Fertigung": "",
+    			"Logistik": "",
+    			"(WZ-)Instandhaltung": "",
+    			"Sonstige Teilnehmer": ""
+    		},
+    		"Teilenr. SPS": "",
+    		"Teilebezeichnung": "",
+    		"Teilenr. Lieferant": "",
+    		"Beanstandung": "",
+    		"Kundenreportnr": "",
+    		"LS_NR./LAP": "",
+    		"ReklamierteMenge": "",
+    		"vom (Datum)": "",
+    		"Foto/Beweis": ""
+    	},
+    	"D2: Problembeschreibung": "Bei unserem Kunden Porsche Leipzig GmbH wurde ein Bauteil: Seitenwandrahmen links PO633 mit einer Partikelbeule oberhalb des Radlaufspiegels hinten detektiert.",
+    	"D3: Sofortmaßnahmen": {
+    		"Headings": ["Sofortmaßnahme", "Verantwortlich", "Fälligkeitsdatum", "Datum abgeschlossen"],
+    		"Rows": [
+    			{
+    				"Sofortmaßnahme": "Linienbegleitende Aktion bei Porsche Leipzig GmbH",
+    				"Verantwortlich": "F.Hartmann",
+    				"Fälligkeitsdatum": "25.09.2024",
+    				"Datum Abgeschlossen": "in Bearbeitung"
+    			},
+    			{
+    				"Sofortmaßnahme": "Cleanpoint SPS 80047027",
+    				"Verantwortlich": "Ch.Sachse",
+    				"Fälligkeitsdatum": "25.09.2024",
+    				"Datum Abgeschlossen": "27.09.2024"
+    			},
+    			{
+    				"Sofortmaßnahme": "",
+    				"Verantwortlich": "",
+    				"Fälligkeitsdatum": "",
+    				"Datum Abgeschlossen": ""
+    			},
+    			{
+    				"Sofortmaßnahme": "",
+    				"Verantwortlich": "",
+    				"Fälligkeitsdatum": "",
+    				"Datum Abgeschlossen": ""
+    			},
+    			{
+    				"Sofortmaßnahme": "",
+    				"Verantwortlich": "",
+    				"Fälligkeitsdatum": "",
+    				"Datum Abgeschlossen": ""
+    			}
+    		]
+    	},
+    	"D4: Fehlerursache": {
+    		"Fehlerursache auf Vorhanden in FMEA Überprüft": false,
+    		"5-Why verwenden": {
+    			"Auftreten": "",
+    			"Entdeckung": ""
+    		}
+    	},
+    	"D5/D6: AbstellPräventionsmaßnahmen/Maßnahmenplan": {
+    		"Headings": [
+    			"Maßnahmentyp (E - Entdeckung, U - Ursache, A - Aufrufer)",
+    			"Abstellmaßnahme",
+    			"Verantwortlich",
+    			"Fälligkeitsdatum",
+    			"Datum abgeschlossen"
+    		],
+    		"Rows": [
+    			{
+    				"Maßnahmentyp": "",
+    				"Abstellmaßnahme": "",
+    				"Verantwortlich": "",
+    				"Fälligkeitsdatum": "",
+    				"Datum Abgeschlossen": ""
+    			},
+    			{
+    				"Maßnahmentyp": "",
+    				"Abstellmaßnahme": "",
+    				"Verantwortlich": "",
+    				"Fälligkeitsdatum": "",
+    				"Datum Abgeschlossen": ""
+    			},
+    			{
+    				"Maßnahmentyp": "",
+    				"Abstellmaßnahme": "",
+    				"Verantwortlich": "",
+    				"Fälligkeitsdatum": "",
+    				"Datum Abgeschlossen": ""
+    			}
+    		]
+    	},
+    	"D7: Wirksamkeitsprüfung": {
+    		"Durchgeführt Von": "Ch. Sachse",
+    		"Beschreibung": "",
+    		"Wiederauftreten Vermeiden": {
+    			"Headings": [
+    				"DokumentAktualisiert",
+    				"Verantwortlich",
+    				"Datum Abgeschlossen"
+    			],
+    			"Rows": [
+    				{
+    					"FMEA aktualiseirt": false,
+    					"Verantwortlich": "",
+    					"Datum Abgeschlossen": ""
+    				},
+    				{
+    					"PLP aktualiseirt": false,
+    					"Verantwortlich": "",
+    					"Datum Abgeschlossen": ""
+    				}
+    			],
+    			"Keine Dokumente aktualisiert": false,
+    			"Begründung": ""
+    		}
+    	},
+    	"D8: Gratulation an das Team": {
+    		"Team gewürdigt": true,
+    		"Geschlossen von": "",
+    		"Geschlossen am": ""
+    	}
+    }
+}
