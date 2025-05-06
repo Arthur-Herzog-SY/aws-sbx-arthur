@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+jupyter-aws-sbx-arthur.lnk
+
+# temp files
+tmp/
+~$*
+
+# subprojects to ignore
+01_genai-bedrock-chatbot.git/
+02_Workshop_Amazon-Q/
